@@ -1,2 +1,24 @@
-# g4ng
-G4NG SELFBOT BY CXXVX X J4J
+# G4NG CLIENT
+
+```G4NG SELFBOT BY CXXVX X J4J```
+
+* `gang client`
+* ------------------
+* better feature
+* better console art
+* better commands
+
+* open-source + don't skid everything lil bro i'll rape u
+
+# dm cxxvx.xyz if u got issues
+
+# @G4NG @J4J_ROOT @EGO
+
+# REQUIRED 
+-----------------------
+* WINDOWS 10/11 X64
+* Python 3.12 or better
+* Discord Token
+-----------------------
+
+# enjoy gng
